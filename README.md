@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno Lopes!
-- 👀 I’m studying Full Stack Development at [Digital House](https://www.digitalhouse.com/br/)
+- 👀 I’m working as Front-end Developer at Enext
 - 🌱 I’m currently learning [React](https://pt-br.reactjs.org)
 - 📫 How to reach me lopesbrunodev@gmail.com
 
